@@ -1,0 +1,1 @@
+This project was carried out by Suleiman Abubakar on Zindi Platform. It was aimed to participate in the Data Scientist Network Nigeria's competition and a key to unlocking the 2024 Hackathon Challenge which is going to be organize by DSNai.  
